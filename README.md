@@ -1,4 +1,4 @@
-Creado con tecnologías: React.js Javascript, Css y Bootstrap.
+Creado con tecnologías: React.js Javascript, HTML, Css y Bootstrap con Firebase el nuevo SDK9.
 
 
 
